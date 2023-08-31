@@ -1,4 +1,4 @@
-Simple Class XI Game Project using Python (with random,turtle and winsound modules).
+A simple game project developed using Python's random, turtle, and winsound modules during class XI.
 
 Topic: Kite Flying game. 2 Player game.
 
