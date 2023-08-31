@@ -13,3 +13,5 @@ Goal: To reach height 1600 or to have height higher than the opponent.
 (4)Player choices-3(one to start/continue,two to exit,three for booster)
 
 (5)Initial kite gets cut when they overlap
+
+I had also presented this infront of the whole class: https://www.mjkpsdelhi.com/images/images/pdf/compsc_online_june2k20.pdf 
