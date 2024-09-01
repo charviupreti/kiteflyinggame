@@ -14,4 +14,4 @@ Goal: To reach height 1600 or to have height higher than the opponent.
 
 (5)Initial kite gets cut when they overlap
 
-In addition, I had presented this in front of entire class: https://www.mjkpsdelhi.com/images/images/pdf/compsc_online_june2k20.pdf 
+In addition, I had presented this in front of entire class.
